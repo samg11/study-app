@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/samg11/study-app/issues"
   },
-  "homepage": "https://github.com/samg11/study-app#readme"
+  "homepage": "https://github.com/samg11/study-app#readme",
+  "devDependencies": {
+    "electron": "^38.4.0"
+  }
 }
